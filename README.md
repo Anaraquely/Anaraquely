@@ -10,13 +10,22 @@
 <br>
 <br>
 <br>
-<div align="center">
+<div align="center"> 
+   
 
-##Projects and Descriptions 
-| **PROJECT** | **FUNCTION** | **DESCRIPTION** |**TECHNOLOGY** |
-  | :---: | :--- | :---: |:---: |
-   | Avaliação 360° | Developer |  Development of a technological application for assessment through a 360° assessment | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-sasaki-19a2031b8/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Anaraquely) |
+### Projects I have already participated in:
 
+| **PROJECT** | **FUNCTION** | **DESCRIPTION** |**REPSOTORY** |
+| :---: | :--- | :---: |:---: |
+| 360-degree evaluation | Developer |  Development of a technological application for assessment through a 360-degree evaluation | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/iNineBD/Aval360-1Sem2023) |
+| TG'S Management System | Developer |  The creation of a Database Management System was proposed as a tool, which will be developed with the focus of simplifying and centralizing the entire administration of TGs, allowing efficient monitoring during the stages, delivery deadlines and project status. | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/iNineBD/SGTG-2Sem2023) |
+| DataFlow | Product Owner / Developer |  It was proposed to create a user-friendly interface for configuring data sources in some updates, providing greater agility in implementation for Dom Rock customers and saving their dependence on specialized technicians. | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/iNineBD/DataFlow-3Sem2024) |
+
+   
+<br>
+<br>
+<br>
+<br>
 <div align="center">
    
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anaraquely&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
