@@ -4,8 +4,9 @@
 <br>
 <br>
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=450&size=28&duration=2500&pause=500&color=FF0564&center=true&vCenter=true&multiline=true&width=200&lines=Hi!+I'm+Ana!;I'm+a+Database+student.;Welcome+to+my+repositories!)](https://git.io/typing-svg)
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F70761&center=true&width=435&lines=Hi!+I'm+Ana;I'm+a+Database+student.;Welcome+to+my+repositories!)](https://git.io/typing-svg)
+
 <br>
 <br>
 <br>
