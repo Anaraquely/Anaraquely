@@ -5,7 +5,7 @@
 <br>
 <div align="center">
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F70761&center=true&width=435&lines=Hi!+I'm+Ana;I'm+a+Database+student.;Welcome+to+my+repositories!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F70761&center=true&width=435&lines=Hi!+I'm+Ana;I'm+a+Database+student.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <br>
 <br>
