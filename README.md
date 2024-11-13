@@ -1,17 +1,8 @@
-![github-header-image (6)](https://github.com/user-attachments/assets/69be13c4-f55a-4a03-a0f3-e06fcf00b19d)
 
-<br>
-<br>
-<br>
-<br>
 <div align="center">
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=F70761&center=true&width=435&lines=Hi!+I'm+Ana;I'm+a+Database+student.;Welcome+to+my+repositories!)](https://git.io/typing-svg)
 
-<br>
-<br>
-<br>
-<br>
 <div align="center"> 
    
 
